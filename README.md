@@ -4,7 +4,7 @@ Next.js 14 + Stripe Checkout, wired end-to-end with server actions, success and 
 
 ![Preview](./public/screenshot.png)
 
-**Live demo:** [stripe-checkout-starter-2jftgyj1r-elite-rentals-dubai.vercel.app](https://stripe-checkout-starter-2jftgyj1r-elite-rentals-dubai.vercel.app)
+**Live demo:** [stripe-checkout-starter.vercel.app](https://stripe-checkout-starter.vercel.app)
 
 ## What's included
 
