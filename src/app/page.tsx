@@ -7,7 +7,7 @@ const products = [
     description: "Sunseeker 62 for up to 10 guests. Ibiza to Formentera. Chef and tender included.",
     price: 650000,
     currency: "eur",
-    image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?w=1200&q=80",
   },
   {
     id: "prod_sunset_cruise",
@@ -15,7 +15,7 @@ const products = [
     description: "Two hours around Es Vedra. Sparkling wine and canapes on board.",
     price: 120000,
     currency: "eur",
-    image: "https://images.unsplash.com/photo-1520763185298-1b434c919102?w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1540946485063-a40da27545f8?w=1200&q=80",
   },
 ];
 
